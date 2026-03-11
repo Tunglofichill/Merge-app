@@ -1,0 +1,15 @@
+{
+    "theme": "dark",
+    "cols": 8,
+    "quality": 92,
+    "target_width": 800,
+    "max_height": 35000,
+    "padding": 8,
+    "background_color": [
+        25,
+        25,
+        25
+    ],
+    "version": "1.0.0",
+    "author": "Seki"
+}
